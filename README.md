@@ -3,7 +3,6 @@
 
 ```csharp
 github.com/yuvalsonn
-dc   $  @empireofuv
 ```
 &zwnj; 
 &zwnj; 
