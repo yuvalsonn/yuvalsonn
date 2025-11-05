@@ -3,6 +3,7 @@
 ```csharp
 github.com/yuvalsonn
 dc $ empireofuv
+socials $ guns.lol/yuvalsonn
 ```
 &zwnj; 
 &zwnj; 
